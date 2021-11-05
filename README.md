@@ -4,6 +4,7 @@ premier
 
 ## introduction 
 indtroduction
+### capture d'écran vidéo
 
 ### ordinateur
 ![Image d'un ordinateur](media/capture_ordinateur.png)
@@ -47,6 +48,9 @@ code de base
 
 - [x] Tir à l'arc
 - [ ] Finir de trouver idée et photos pour le cours de photo
+- [ ] Commencer a lire pour français 
+- [ ] Étudier pour le quiz de Français
+
 
 
  
