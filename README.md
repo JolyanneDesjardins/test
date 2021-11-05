@@ -7,7 +7,7 @@ indtroduction
 
 ### soustitre
 0rdinateur
-
+![Image d'un ordinateur](capture_ordinateur.
 
 ### soustitre 2
 deuxième sujet
