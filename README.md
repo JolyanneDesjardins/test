@@ -5,6 +5,7 @@ premier
 ## introduction 
 indtroduction
 ### capture d'écran vidéo
+![capture d'écran](media/capture_ecran.png)
 
 ### ordinateur
 ![Image d'un ordinateur](media/capture_ordinateur.png)
