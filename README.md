@@ -5,10 +5,10 @@ premier
 ## introduction 
 indtroduction
 ### capture d'écran vidéo
-![capture d'écran](media/capture_ecran.png)
+![capture d'écran](media/test_capture_ecran_video.gif)
 
 ### ordinateur
-![Image d'un ordinateur](media/capture_ordinateur.png)
+![Image d'un ordinateur](capture_ordinateur.png)
 
 ### code 
 code de base 
